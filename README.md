@@ -1,4 +1,4 @@
-# Financial Chatbot
+# AI Chatbot
 
 
 This project implements a document retrieval and question answering system using FAISS for efficient similarity search and GPT-4 for generating answers based on retrieved documents. It utilizes Sentence Transformers for generating document embeddings and integrates with OpenAI's GPT-4 API for natural language processing tasks.
